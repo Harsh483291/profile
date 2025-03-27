@@ -18,6 +18,7 @@ class ProfileApp extends StatelessWidget {
                 CircleAvatar(
                   radius: 50,
                   
+                  
                 ),
                 SizedBox(width: 16),
                 Column(
